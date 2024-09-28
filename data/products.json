@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "price": 1500,
+    "description": "A high-performance laptop for developers."
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "price": 800,
+    "description": "A smartphone with a great camera and battery life."
+  },
+  {
+    "id": 3,
+    "name": "Headphones",
+    "price": 200,
+    "description": "Noise-cancelling over-ear headphones."
+  }
+]
